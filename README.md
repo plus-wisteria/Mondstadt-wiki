@@ -2,12 +2,12 @@
 １年次の進級制作課題として制作した、ゲーム「原神」の組織を紹介するWebサイトです。
 
 ## スクリーンショット
+![ローディング１](screenshots/loading1.png)
 ![トップページ１_モンド](screenshots/top.png)
 ![トップページ１_組織一覧](screenshots/top2.png)
-![ローディング１](screenshots/loading1.png)
+![ローディング２](screenshots/loading2.png)
 ![wikiページ_西風教会](screenshots/wiki1.png)
 ![wikiページ_西風騎士団](screenshots/wiki2.png)
-![ローディング２](screenshots/loading2.png)
 
 ## 使用技術
 - HTML
